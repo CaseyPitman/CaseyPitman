@@ -1,6 +1,6 @@
 # Hello. 
 ### My name is Casey. 
-### I am a front end developer who loves to solve problems. 
+### I'm a front end developer who loves to solve problems. 
 
 #### React / Redux / JavaScript / HTML / CSS
 
