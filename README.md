@@ -1,7 +1,7 @@
 # Hello. 
-### My name is Casey. I'm a front end developer who loves to solve problems. 
+## My name is Casey. I'm a front end developer who loves to solve problems. 
 
-#### React / Redux / JavaScript / HTML / CSS
+### React / Redux / JavaScript / HTML / CSS
 
 :dollar: My most recent project was the [Donor Management Portal](https://github.com/CaseyPitman/Donor-Management-Portal), a React web app with CRUD operations that allows non-profit and charitable organizations to maintain donor records.  
   
